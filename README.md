@@ -1,16 +1,18 @@
-# dicee_flutter
+# Dicee 🎲
 
-A new Flutter project.
+<img src="https://github.com/SmileyDoodle/dicee-flutter/blob/main/images/example.png">
 
-## Getting Started
+## What I learnt
 
-This project is a starting point for a Flutter application.
+  How to use Flutter stateless widgets to design the user interface.
+  How to use Flutter stateful widgets to update the user interface.
+  How to change the properties of various widgets.
+  How to use onPressed listeners to detect when buttons are pressed.
+  How to use setState to mark the widget tree as dirty and requiring update on the next render.
+  How to use Expanded to make widgets adapt to screen dimensions.
+  Understand and use string interpolation.
+  Learn about basic dart programming concepts such as data types and functions.
+  Code and use gesture controls.
 
-A few resources to get you started if this is your first Flutter project:
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
